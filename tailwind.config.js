@@ -16,6 +16,16 @@ module.exports = {
       sans: ['Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
     },
+    fontSize: {
+      'tiny': '.75rem',
+    },
+    screens: {
+      ti: '360px',
+      sm: '480px',
+      md: '768px',
+      lg: '976px',
+      xl: '1440px',
+    },
     extend: {
       spacing: {
         '8xl': '96rem',

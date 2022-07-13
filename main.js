@@ -5,7 +5,7 @@ const textArray = [
     "Sagar",
     "a Tutor",
     "a Helper",
-    "a Educator",
+    "an Educator",
 ];
 const typingDelay = 50;
 const eraseDelay = 50;
